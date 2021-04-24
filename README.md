@@ -14,4 +14,4 @@
 ## 12. The (Mis)behaviour of Markets by Benoit B Mandelbrot
 ## 13. The dao of Capital by Mark Spitznagel
 ## 14. Little book that beats the market by Joe Greenblatt
-## 15. Warren Buffet and the interpreation of final statements by Mary Buffet
+## 15. Warren Buffet and the interpretation of final statements by Mary Buffet
